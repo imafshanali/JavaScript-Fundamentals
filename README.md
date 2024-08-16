@@ -7,7 +7,7 @@ Arrays
 Null
 Input/Output Opertaions 
 Arithmetic operators 
-Conditional statments 
+Conditional statements 
 Loops
 And few other various programs & examples.
 DOM and Events files will be attached shortly with lots of example and proper labeling to each of them. 
