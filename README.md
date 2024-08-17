@@ -10,5 +10,5 @@ Arithmetic operators,
 Conditional statements, 
 Loops,
 And few other various programs & examples.
-DOM and Events files will be attached shortly with lots of example and proper labeling to each of them. 
+DOM and Events files will be attached shortly with lots of example and proper labeling to each one of them. 
 Note: The code is Commented, As i have put multiple examples all together in one file.
