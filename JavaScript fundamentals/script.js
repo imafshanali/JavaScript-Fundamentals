@@ -129,7 +129,7 @@
 // name =`@${name}${name.length}`;
 // console.log(name);
 
-// array indexing example
+// Changing elements in an array example
 // let Marks = [29,30,40,50,37];
 // Marks[3] = 44;
 // console.log(Marks);
