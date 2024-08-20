@@ -118,6 +118,11 @@
 // console.log(str.slice(0, 4));
 // output: Afsh
 
+// Reversing a String
+// let name = "afshan";
+// let reversedname = name.split('').reverse('').join('');
+// console.log(reversedname);
+
 // string literal example
 // let name = prompt("Enter your full name: ");
 // let username = name;
@@ -245,8 +250,13 @@
 // console.log(result);
 
 
-// let array = [89,78,98,94,37,95];
+// Reversing an array
+// let array = [1,2,3,4,5,6,7,8]
+// let result = array.reverse('');
+// console.log(result);
 
+
+// let array = [89,78,98,94,37,95];
 // array.forEach(arr => {
 //     if(arr > 90){
 //         console.log(arr);
